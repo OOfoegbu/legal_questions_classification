@@ -5,9 +5,11 @@ The goal of this project was to build a classification model that accepts as inp
 
 I have made use of data collected from a free source legal site. The dataset consists of descriptions of legal questions from around the united states, the state of the user who posted the question, the date is was answered, and the legal category it was posted under. The legal questions were grouped into 18 legal categories. 
 
-In this repository, I have included a link to the modelling report. Also included the following file:
+In this repository, I have included a link to the modelling report. Also included are the following file:
 
-1. legal_questions_analysis - Exploratory analysis report in markdown format
-2. legal_questions_classification - Modelling report in markdown format
+1. exploratory_analysis_report.md - Exploratory analysis report in markdown format
+2. exploratory_analysis_report.html - Exploratory analysis report in html format
+3. classification_model_report.md - Modelling report in markdown format
+4. classification_model_report.html - Modelling report in html format
 
 Python is the programming language used in this project. 
